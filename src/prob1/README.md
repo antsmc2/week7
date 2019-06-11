@@ -1,4 +1,4 @@
-#Problem 1 Solution
+# Explanation for all problem one issues
 
 ## Part B
 
